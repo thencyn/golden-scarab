@@ -1,0 +1,398 @@
+{
+	"textures": [
+		{
+			"image": "simbolos.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 486,
+				"h": 975
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "simbolo-02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 160,
+						"h": 161
+					}
+				},
+				{
+					"filename": "simbolo-05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 161
+					},
+					"frame": {
+						"x": 163,
+						"y": 1,
+						"w": 160,
+						"h": 161
+					}
+				},
+				{
+					"filename": "simbolo-06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 161
+					},
+					"frame": {
+						"x": 325,
+						"y": 1,
+						"w": 160,
+						"h": 161
+					}
+				},
+				{
+					"filename": "simbolo-07",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 164,
+						"w": 160,
+						"h": 161
+					}
+				},
+				{
+					"filename": "simbolo-08",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 161
+					},
+					"frame": {
+						"x": 163,
+						"y": 164,
+						"w": 160,
+						"h": 161
+					}
+				},
+				{
+					"filename": "simbolo-09",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 161
+					},
+					"frame": {
+						"x": 325,
+						"y": 164,
+						"w": 160,
+						"h": 161
+					}
+				},
+				{
+					"filename": "simbolo-10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 327,
+						"w": 160,
+						"h": 161
+					}
+				},
+				{
+					"filename": "simbolo-12",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 161
+					},
+					"frame": {
+						"x": 163,
+						"y": 327,
+						"w": 160,
+						"h": 161
+					}
+				},
+				{
+					"filename": "simbolo-13",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 161
+					},
+					"frame": {
+						"x": 325,
+						"y": 327,
+						"w": 160,
+						"h": 161
+					}
+				},
+				{
+					"filename": "simbolo-01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 1,
+						"y": 490,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 163,
+						"y": 490,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 325,
+						"y": 490,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 1,
+						"y": 652,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-14",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 1,
+						"y": 814,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-15",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 163,
+						"y": 652,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-16",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 325,
+						"y": 652,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-17",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 163,
+						"y": 814,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-18",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 325,
+						"y": 814,
+						"w": 160,
+						"h": 160
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9f1795ba36dc7296ffedae92a3026c37:d581da4bc8eb41bfb88f23f6d829fd12:e315ecd163c001091651d9f47059e02a$"
+	}
+}

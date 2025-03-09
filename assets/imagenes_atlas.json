@@ -1,0 +1,692 @@
+{
+	"textures": [
+		{
+			"image": "imagenes_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1902,
+				"h": 1792
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "arco",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1900,
+						"h": 1036
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1900,
+						"h": 1036
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1900,
+						"h": 1036
+					}
+				},
+				{
+					"filename": "caja-premio",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 800,
+						"h": 478
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 800,
+						"h": 478
+					},
+					"frame": {
+						"x": 1,
+						"y": 1039,
+						"w": 800,
+						"h": 478
+					}
+				},
+				{
+					"filename": "cebra-circular",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 489,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 489,
+						"h": 500
+					},
+					"frame": {
+						"x": 803,
+						"y": 1039,
+						"w": 489,
+						"h": 500
+					}
+				},
+				{
+					"filename": "rectangulo-dorado",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 518,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 518,
+						"h": 158
+					},
+					"frame": {
+						"x": 1,
+						"y": 1519,
+						"w": 518,
+						"h": 158
+					}
+				},
+				{
+					"filename": "logo-juego",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 440,
+						"h": 227
+					},
+					"frame": {
+						"x": 1294,
+						"y": 1039,
+						"w": 440,
+						"h": 227
+					}
+				},
+				{
+					"filename": "caja-apuesta",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 500,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 500,
+						"h": 96
+					},
+					"frame": {
+						"x": 1,
+						"y": 1679,
+						"w": 500,
+						"h": 96
+					}
+				},
+				{
+					"filename": "luz",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 258,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 258,
+						"h": 264
+					},
+					"frame": {
+						"x": 1294,
+						"y": 1268,
+						"w": 258,
+						"h": 264
+					}
+				},
+				{
+					"filename": "tiempo-caja",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 241,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 241,
+						"h": 158
+					},
+					"frame": {
+						"x": 521,
+						"y": 1519,
+						"w": 241,
+						"h": 158
+					}
+				},
+				{
+					"filename": "loading-logo-juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 112
+					},
+					"frame": {
+						"x": 503,
+						"y": 1679,
+						"w": 231,
+						"h": 112
+					}
+				},
+				{
+					"filename": "instrucciones",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 360,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 360,
+						"h": 160
+					},
+					"frame": {
+						"x": 764,
+						"y": 1541,
+						"w": 360,
+						"h": 160
+					}
+				},
+				{
+					"filename": "saldo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 56
+					},
+					"frame": {
+						"x": 736,
+						"y": 1703,
+						"w": 340,
+						"h": 56
+					}
+				},
+				{
+					"filename": "estrella",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 180
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1268,
+						"w": 180,
+						"h": 180
+					}
+				},
+				{
+					"filename": "logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 180,
+						"h": 178
+					},
+					"frame": {
+						"x": 1126,
+						"y": 1541,
+						"w": 180,
+						"h": 178
+					}
+				},
+				{
+					"filename": "autojuego-modal",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 135
+					},
+					"frame": {
+						"x": 1308,
+						"y": 1534,
+						"w": 300,
+						"h": 135
+					}
+				},
+				{
+					"filename": "loading-logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 8,
+						"w": 369,
+						"h": 101
+					},
+					"frame": {
+						"x": 1308,
+						"y": 1671,
+						"w": 369,
+						"h": 101
+					}
+				},
+				{
+					"filename": "fuego-brillante",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 157
+					},
+					"frame": {
+						"x": 1736,
+						"y": 1039,
+						"w": 157,
+						"h": 157
+					}
+				},
+				{
+					"filename": "fuego-amarillo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 128
+					},
+					"frame": {
+						"x": 1736,
+						"y": 1198,
+						"w": 127,
+						"h": 128
+					}
+				},
+				{
+					"filename": "fuego-blanco",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 1736,
+						"y": 1328,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "tiempo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 56
+					},
+					"frame": {
+						"x": 1554,
+						"y": 1450,
+						"w": 170,
+						"h": 56
+					}
+				},
+				{
+					"filename": "rectangulo-grande",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 210,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 210,
+						"h": 56
+					},
+					"frame": {
+						"x": 1078,
+						"y": 1721,
+						"w": 210,
+						"h": 56
+					}
+				},
+				{
+					"filename": "autojuego",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 56
+					},
+					"frame": {
+						"x": 1726,
+						"y": 1457,
+						"w": 135,
+						"h": 56
+					}
+				},
+				{
+					"filename": "golden-scarab",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 86,
+						"h": 98
+					},
+					"frame": {
+						"x": 1610,
+						"y": 1508,
+						"w": 86,
+						"h": 98
+					}
+				},
+				{
+					"filename": "polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 195,
+						"h": 55
+					},
+					"frame": {
+						"x": 1698,
+						"y": 1515,
+						"w": 195,
+						"h": 55
+					}
+				},
+				{
+					"filename": "juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 62
+					},
+					"frame": {
+						"x": 1698,
+						"y": 1572,
+						"w": 128,
+						"h": 62
+					}
+				},
+				{
+					"filename": "star-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 59
+					},
+					"frame": {
+						"x": 1610,
+						"y": 1608,
+						"w": 54,
+						"h": 59
+					}
+				},
+				{
+					"filename": "star-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 58
+					},
+					"frame": {
+						"x": 1828,
+						"y": 1572,
+						"w": 52,
+						"h": 58
+					}
+				},
+				{
+					"filename": "autojuego-cuadro",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 64
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1636,
+						"w": 90,
+						"h": 64
+					}
+				},
+				{
+					"filename": "rectangulo-apuesta",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 56
+					},
+					"frame": {
+						"x": 1679,
+						"y": 1702,
+						"w": 95,
+						"h": 56
+					}
+				},
+				{
+					"filename": "star-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 41
+					},
+					"frame": {
+						"x": 1771,
+						"y": 1636,
+						"w": 68,
+						"h": 41
+					}
+				},
+				{
+					"filename": "bola",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1198,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "luz-neon-azul",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1232,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "rain",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 17,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 1,
+						"y": 1777,
+						"w": 14,
+						"h": 14
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:79b1347735e49fb6504093215558d1b3:1b007e16792fff86f21b07a23beb5b44:2db50c4a79ebc1bcbd9597afe4e693ea$"
+	}
+}
