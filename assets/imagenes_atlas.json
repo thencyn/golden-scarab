@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 1902,
-				"h": 1894
+				"h": 1895
 			},
 			"scale": 1,
 			"frames": [
@@ -31,111 +31,6 @@
 					}
 				},
 				{
-					"filename": "cebra-circular",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 489,
-						"h": 500
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 489,
-						"h": 500
-					},
-					"frame": {
-						"x": 1,
-						"y": 1039,
-						"w": 489,
-						"h": 500
-					}
-				},
-				{
-					"filename": "arco-esquina-derecha",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 229,
-						"h": 333
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 229,
-						"h": 333
-					},
-					"frame": {
-						"x": 1,
-						"y": 1541,
-						"w": 229,
-						"h": 333
-					}
-				},
-				{
-					"filename": "rain",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 17,
-						"h": 17
-					},
-					"spriteSourceSize": {
-						"x": 2,
-						"y": 3,
-						"w": 14,
-						"h": 14
-					},
-					"frame": {
-						"x": 1,
-						"y": 1876,
-						"w": 14,
-						"h": 14
-					}
-				},
-				{
-					"filename": "arco-esquina-izquierda",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 229,
-						"h": 333
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 229,
-						"h": 333
-					},
-					"frame": {
-						"x": 232,
-						"y": 1541,
-						"w": 229,
-						"h": 333
-					}
-				},
-				{
-					"filename": "luz",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 258,
-						"h": 264
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 258,
-						"h": 264
-					},
-					"frame": {
-						"x": 463,
-						"y": 1541,
-						"w": 258,
-						"h": 264
-					}
-				},
-				{
 					"filename": "caja-premio",
 					"rotated": false,
 					"trimmed": false,
@@ -150,136 +45,31 @@
 						"h": 478
 					},
 					"frame": {
-						"x": 492,
+						"x": 1,
 						"y": 1039,
 						"w": 800,
 						"h": 478
 					}
 				},
 				{
-					"filename": "autojuego-cuadro",
+					"filename": "cebra-circular",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 90,
-						"h": 64
+						"w": 489,
+						"h": 500
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 90,
-						"h": 64
+						"w": 489,
+						"h": 500
 					},
 					"frame": {
-						"x": 463,
-						"y": 1807,
-						"w": 90,
-						"h": 64
-					}
-				},
-				{
-					"filename": "juega-responsable",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 128,
-						"h": 62
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 128,
-						"h": 62
-					},
-					"frame": {
-						"x": 555,
-						"y": 1807,
-						"w": 128,
-						"h": 62
-					}
-				},
-				{
-					"filename": "star-2",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 54,
-						"h": 59
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 54,
-						"h": 59
-					},
-					"frame": {
-						"x": 685,
-						"y": 1807,
-						"w": 54,
-						"h": 59
-					}
-				},
-				{
-					"filename": "logo-juego",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 440,
-						"h": 228
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 440,
-						"h": 227
-					},
-					"frame": {
-						"x": 723,
-						"y": 1519,
-						"w": 440,
-						"h": 227
-					}
-				},
-				{
-					"filename": "saldo",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 340,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 340,
-						"h": 56
-					},
-					"frame": {
-						"x": 723,
-						"y": 1748,
-						"w": 340,
-						"h": 56
-					}
-				},
-				{
-					"filename": "autojuego-modal",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 300,
-						"h": 135
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 300,
-						"h": 135
-					},
-					"frame": {
-						"x": 1065,
-						"y": 1748,
-						"w": 300,
-						"h": 135
+						"x": 803,
+						"y": 1039,
+						"w": 489,
+						"h": 500
 					}
 				},
 				{
@@ -297,136 +87,31 @@
 						"h": 158
 					},
 					"frame": {
-						"x": 1367,
-						"y": 1039,
+						"x": 1,
+						"y": 1519,
 						"w": 518,
 						"h": 158
 					}
 				},
 				{
-					"filename": "star-1",
+					"filename": "logo-juego",
 					"rotated": false,
-					"trimmed": false,
+					"trimmed": true,
 					"sourceSize": {
-						"w": 68,
-						"h": 41
+						"w": 440,
+						"h": 228
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 68,
-						"h": 41
+						"w": 440,
+						"h": 227
 					},
 					"frame": {
 						"x": 1294,
 						"y": 1039,
-						"w": 68,
-						"h": 41
-					}
-				},
-				{
-					"filename": "bola-brillo",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 56,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 56,
-						"h": 56
-					},
-					"frame": {
-						"x": 1294,
-						"y": 1082,
-						"w": 56,
-						"h": 56
-					}
-				},
-				{
-					"filename": "bola",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 56,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 56,
-						"h": 56
-					},
-					"frame": {
-						"x": 1294,
-						"y": 1140,
-						"w": 56,
-						"h": 56
-					}
-				},
-				{
-					"filename": "star-3",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 52,
-						"h": 58
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 52,
-						"h": 58
-					},
-					"frame": {
-						"x": 1294,
-						"y": 1198,
-						"w": 52,
-						"h": 58
-					}
-				},
-				{
-					"filename": "rectangulo-grande",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 210,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 210,
-						"h": 56
-					},
-					"frame": {
-						"x": 741,
-						"y": 1806,
-						"w": 210,
-						"h": 56
-					}
-				},
-				{
-					"filename": "rectangulo-apuesta",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 95,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 95,
-						"h": 56
-					},
-					"frame": {
-						"x": 953,
-						"y": 1806,
-						"w": 95,
-						"h": 56
+						"w": 440,
+						"h": 227
 					}
 				},
 				{
@@ -444,52 +129,178 @@
 						"h": 96
 					},
 					"frame": {
-						"x": 1367,
-						"y": 1199,
+						"x": 1,
+						"y": 1679,
 						"w": 500,
 						"h": 96
 					}
 				},
 				{
-					"filename": "bola-chica",
+					"filename": "luz",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 32,
-						"h": 32
+						"w": 258,
+						"h": 264
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 32,
-						"h": 32
+						"w": 258,
+						"h": 264
 					},
 					"frame": {
-						"x": 1869,
-						"y": 1199,
-						"w": 32,
-						"h": 32
+						"x": 1294,
+						"y": 1268,
+						"w": 258,
+						"h": 264
 					}
 				},
 				{
-					"filename": "luz-neon-azul",
+					"filename": "loading-logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 8,
+						"w": 369,
+						"h": 101
+					},
+					"frame": {
+						"x": 1,
+						"y": 1777,
+						"w": 369,
+						"h": 101
+					}
+				},
+				{
+					"filename": "arco-esquina-derecha",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 32,
-						"h": 32
+						"w": 229,
+						"h": 333
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 32,
-						"h": 32
+						"w": 229,
+						"h": 333
 					},
 					"frame": {
-						"x": 1869,
-						"y": 1233,
-						"w": 32,
-						"h": 32
+						"x": 1554,
+						"y": 1268,
+						"w": 229,
+						"h": 333
+					}
+				},
+				{
+					"filename": "tiempo-caja",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 241,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 241,
+						"h": 158
+					},
+					"frame": {
+						"x": 521,
+						"y": 1519,
+						"w": 241,
+						"h": 158
+					}
+				},
+				{
+					"filename": "instrucciones",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 360,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 360,
+						"h": 160
+					},
+					"frame": {
+						"x": 764,
+						"y": 1541,
+						"w": 360,
+						"h": 160
+					}
+				},
+				{
+					"filename": "loading-logo-juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 112
+					},
+					"frame": {
+						"x": 503,
+						"y": 1679,
+						"w": 231,
+						"h": 112
+					}
+				},
+				{
+					"filename": "saldo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 56
+					},
+					"frame": {
+						"x": 736,
+						"y": 1703,
+						"w": 340,
+						"h": 56
+					}
+				},
+				{
+					"filename": "arco-esquina-izquierda",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 229,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 229,
+						"h": 333
+					},
+					"frame": {
+						"x": 1126,
+						"y": 1541,
+						"w": 229,
+						"h": 333
 					}
 				},
 				{
@@ -507,8 +318,8 @@
 						"h": 180
 					},
 					"frame": {
-						"x": 1165,
-						"y": 1519,
+						"x": 1357,
+						"y": 1534,
 						"w": 180,
 						"h": 180
 					}
@@ -528,94 +339,31 @@
 						"h": 178
 					},
 					"frame": {
-						"x": 1294,
-						"y": 1297,
+						"x": 1357,
+						"y": 1716,
 						"w": 180,
 						"h": 178
 					}
 				},
 				{
-					"filename": "loading-logo-polla",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 380,
-						"h": 116
-					},
-					"spriteSourceSize": {
-						"x": 6,
-						"y": 8,
-						"w": 369,
-						"h": 101
-					},
-					"frame": {
-						"x": 1476,
-						"y": 1297,
-						"w": 369,
-						"h": 101
-					}
-				},
-				{
-					"filename": "instrucciones",
+					"filename": "autojuego-modal",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 360,
-						"h": 160
+						"w": 300,
+						"h": 135
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 360,
-						"h": 160
+						"w": 300,
+						"h": 135
 					},
 					"frame": {
-						"x": 1476,
-						"y": 1400,
-						"w": 360,
-						"h": 160
-					}
-				},
-				{
-					"filename": "fuego-amarillo",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 128,
-						"h": 128
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 127,
-						"h": 128
-					},
-					"frame": {
-						"x": 1347,
-						"y": 1477,
-						"w": 127,
-						"h": 128
-					}
-				},
-				{
-					"filename": "fuego-blanco",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 128,
-						"h": 128
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 1,
-						"w": 128,
-						"h": 127
-					},
-					"frame": {
-						"x": 1347,
-						"y": 1607,
-						"w": 128,
-						"h": 127
+						"x": 1539,
+						"y": 1603,
+						"w": 300,
+						"h": 135
 					}
 				},
 				{
@@ -633,31 +381,52 @@
 						"h": 157
 					},
 					"frame": {
-						"x": 1367,
-						"y": 1736,
+						"x": 1736,
+						"y": 1039,
 						"w": 157,
 						"h": 157
 					}
 				},
 				{
-					"filename": "tiempo-caja",
+					"filename": "rectangulo-grande",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 241,
-						"h": 158
+						"w": 210,
+						"h": 56
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 241,
-						"h": 158
+						"w": 210,
+						"h": 56
 					},
 					"frame": {
-						"x": 1477,
-						"y": 1562,
-						"w": 241,
-						"h": 158
+						"x": 1539,
+						"y": 1740,
+						"w": 210,
+						"h": 56
+					}
+				},
+				{
+					"filename": "polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 195,
+						"h": 55
+					},
+					"frame": {
+						"x": 1539,
+						"y": 1798,
+						"w": 195,
+						"h": 55
 					}
 				},
 				{
@@ -675,8 +444,8 @@
 						"h": 56
 					},
 					"frame": {
-						"x": 1720,
-						"y": 1562,
+						"x": 736,
+						"y": 1761,
 						"w": 170,
 						"h": 56
 					}
@@ -696,52 +465,52 @@
 						"h": 56
 					},
 					"frame": {
-						"x": 1720,
-						"y": 1620,
+						"x": 1736,
+						"y": 1198,
 						"w": 135,
 						"h": 56
 					}
 				},
 				{
-					"filename": "loading-logo-juega-responsable",
+					"filename": "juega-responsable",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 231,
-						"h": 112
+						"w": 128,
+						"h": 62
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 231,
-						"h": 112
+						"w": 128,
+						"h": 62
 					},
 					"frame": {
-						"x": 1526,
-						"y": 1722,
-						"w": 231,
-						"h": 112
+						"x": 372,
+						"y": 1777,
+						"w": 128,
+						"h": 62
 					}
 				},
 				{
-					"filename": "polla",
+					"filename": "fuego-blanco",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 200,
-						"h": 62
+						"w": 128,
+						"h": 128
 					},
 					"spriteSourceSize": {
-						"x": 3,
-						"y": 3,
-						"w": 195,
-						"h": 55
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 127
 					},
 					"frame": {
-						"x": 1526,
-						"y": 1836,
-						"w": 195,
-						"h": 55
+						"x": 908,
+						"y": 1761,
+						"w": 128,
+						"h": 127
 					}
 				},
 				{
@@ -759,8 +528,8 @@
 						"h": 98
 					},
 					"frame": {
-						"x": 1759,
-						"y": 1678,
+						"x": 1038,
+						"y": 1761,
 						"w": 86,
 						"h": 98
 					}
@@ -780,10 +549,262 @@
 						"h": 95
 					},
 					"frame": {
-						"x": 1759,
-						"y": 1778,
+						"x": 1785,
+						"y": 1256,
 						"w": 85,
 						"h": 95
+					}
+				},
+				{
+					"filename": "tumbleweed",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 92,
+						"h": 90
+					},
+					"frame": {
+						"x": 1785,
+						"y": 1353,
+						"w": 92,
+						"h": 90
+					}
+				},
+				{
+					"filename": "autojuego-cuadro",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 64
+					},
+					"frame": {
+						"x": 1785,
+						"y": 1445,
+						"w": 90,
+						"h": 64
+					}
+				},
+				{
+					"filename": "rectangulo-apuesta",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 56
+					},
+					"frame": {
+						"x": 1785,
+						"y": 1511,
+						"w": 95,
+						"h": 56
+					}
+				},
+				{
+					"filename": "fuego-amarillo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 128
+					},
+					"frame": {
+						"x": 1751,
+						"y": 1740,
+						"w": 127,
+						"h": 128
+					}
+				},
+				{
+					"filename": "star-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 41
+					},
+					"frame": {
+						"x": 502,
+						"y": 1793,
+						"w": 68,
+						"h": 41
+					}
+				},
+				{
+					"filename": "star-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 58
+					},
+					"frame": {
+						"x": 502,
+						"y": 1836,
+						"w": 52,
+						"h": 58
+					}
+				},
+				{
+					"filename": "bola-chica",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1785,
+						"y": 1569,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "bola-brillo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 572,
+						"y": 1793,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "bola",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 630,
+						"y": 1793,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "luz-neon-azul",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 1819,
+						"y": 1569,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "star-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 59
+					},
+					"frame": {
+						"x": 1841,
+						"y": 1603,
+						"w": 54,
+						"h": 59
+					}
+				},
+				{
+					"filename": "rain",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 17,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 1,
+						"y": 1880,
+						"w": 14,
+						"h": 14
 					}
 				}
 			]
@@ -792,6 +813,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:a82531bd963a3322ee2a66d1c15cbf1f:07d41b61de615f7ad28ab16d0bcfb177:2db50c4a79ebc1bcbd9597afe4e693ea$"
+		"smartupdate": "$TexturePacker:SmartUpdate:5e25995661d83c0812a4843327f2bf3c:6a25009cece69a787e8557ce5a427227:2db50c4a79ebc1bcbd9597afe4e693ea$"
 	}
 }
