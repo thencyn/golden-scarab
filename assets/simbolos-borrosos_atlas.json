@@ -1,98 +1,14 @@
 {
 	"textures": [
 		{
-			"image": "simbolos_atlas.png",
+			"image": "simbolos-borrosos_atlas.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 486,
-				"h": 648
+				"w": 648,
+				"h": 486
 			},
 			"scale": 1,
 			"frames": [
-				{
-					"filename": "simbolo-02",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 160,
-						"h": 161
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 160,
-						"h": 161
-					},
-					"frame": {
-						"x": 1,
-						"y": 1,
-						"w": 160,
-						"h": 161
-					}
-				},
-				{
-					"filename": "simbolo-05",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 160,
-						"h": 161
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 160,
-						"h": 161
-					},
-					"frame": {
-						"x": 1,
-						"y": 164,
-						"w": 160,
-						"h": 161
-					}
-				},
-				{
-					"filename": "simbolo-06",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 160,
-						"h": 161
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 160,
-						"h": 161
-					},
-					"frame": {
-						"x": 1,
-						"y": 327,
-						"w": 160,
-						"h": 161
-					}
-				},
-				{
-					"filename": "simbolo-09",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 160,
-						"h": 161
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 160,
-						"h": 161
-					},
-					"frame": {
-						"x": 163,
-						"y": 1,
-						"w": 160,
-						"h": 161
-					}
-				},
 				{
 					"filename": "simbolo-00",
 					"rotated": false,
@@ -108,8 +24,8 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 163,
-						"y": 164,
+						"x": 1,
+						"y": 1,
 						"w": 160,
 						"h": 160
 					}
@@ -129,8 +45,29 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 163,
-						"y": 326,
+						"x": 1,
+						"y": 163,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 1,
+						"y": 325,
 						"w": 160,
 						"h": 160
 					}
@@ -150,7 +87,7 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 325,
+						"x": 163,
 						"y": 1,
 						"w": 160,
 						"h": 160
@@ -171,8 +108,50 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 325,
+						"x": 163,
 						"y": 163,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 163,
+						"y": 325,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 325,
+						"y": 1,
 						"w": 160,
 						"h": 160
 					}
@@ -193,7 +172,7 @@
 					},
 					"frame": {
 						"x": 325,
-						"y": 325,
+						"y": 163,
 						"w": 160,
 						"h": 160
 					}
@@ -214,7 +193,28 @@
 					},
 					"frame": {
 						"x": 325,
-						"y": 487,
+						"y": 325,
+						"w": 160,
+						"h": 160
+					}
+				},
+				{
+					"filename": "simbolo-09",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 160
+					},
+					"frame": {
+						"x": 487,
+						"y": 1,
 						"w": 160,
 						"h": 160
 					}
@@ -225,6 +225,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:91e6fa5da0d02e7575aced0235343af0:47fecd664fc5554b09a805699706f4d1:9a3f2a715f214dcbc06f74f4a50a3b78$"
+		"smartupdate": "$TexturePacker:SmartUpdate:e365f30bc9562ad5fd28ee5aae2cd278:7f5bc8f03b52a7163124f695b8fe4bac:56c83b3809424983a6669b04124e1dbf$"
 	}
 }
