@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 2032,
-				"h": 1984
+				"h": 1996
 			},
 			"scale": 1,
 			"frames": [
@@ -220,6 +220,27 @@
 					}
 				},
 				{
+					"filename": "saldo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 56
+					},
+					"frame": {
+						"x": 803,
+						"y": 1932,
+						"w": 340,
+						"h": 56
+					}
+				},
+				{
 					"filename": "autojuego-modal",
 					"rotated": false,
 					"trimmed": false,
@@ -262,48 +283,6 @@
 					}
 				},
 				{
-					"filename": "estrella",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 180,
-						"h": 180
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 180,
-						"h": 180
-					},
-					"frame": {
-						"x": 1165,
-						"y": 1803,
-						"w": 180,
-						"h": 180
-					}
-				},
-				{
-					"filename": "tiempo-caja",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 241,
-						"h": 158
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 241,
-						"h": 158
-					},
-					"frame": {
-						"x": 1347,
-						"y": 1803,
-						"w": 241,
-						"h": 158
-					}
-				},
-				{
 					"filename": "arco-esquina-izquierda",
 					"rotated": false,
 					"trimmed": false,
@@ -325,24 +304,45 @@
 					}
 				},
 				{
-					"filename": "saldo",
+					"filename": "tiempo-caja",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 340,
-						"h": 56
+						"w": 241,
+						"h": 158
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 340,
-						"h": 56
+						"w": 241,
+						"h": 158
 					},
 					"frame": {
-						"x": 1547,
+						"x": 1616,
 						"y": 1632,
-						"w": 340,
-						"h": 56
+						"w": 241,
+						"h": 158
+					}
+				},
+				{
+					"filename": "fuego-brillante",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 157
+					},
+					"frame": {
+						"x": 1859,
+						"y": 1632,
+						"w": 157,
+						"h": 157
 					}
 				},
 				{
@@ -360,31 +360,31 @@
 						"h": 112
 					},
 					"frame": {
-						"x": 1616,
-						"y": 1690,
+						"x": 1165,
+						"y": 1803,
 						"w": 231,
 						"h": 112
 					}
 				},
 				{
-					"filename": "logo-polla",
+					"filename": "estrella",
 					"rotated": false,
-					"trimmed": true,
+					"trimmed": false,
 					"sourceSize": {
 						"w": 180,
 						"h": 180
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 1,
+						"y": 0,
 						"w": 180,
-						"h": 178
+						"h": 180
 					},
 					"frame": {
-						"x": 1590,
-						"y": 1804,
+						"x": 1398,
+						"y": 1803,
 						"w": 180,
-						"h": 178
+						"h": 180
 					}
 				},
 				{
@@ -430,24 +430,87 @@
 					}
 				},
 				{
-					"filename": "fuego-brillante",
+					"filename": "logo-polla",
 					"rotated": false,
-					"trimmed": false,
+					"trimmed": true,
 					"sourceSize": {
-						"w": 157,
-						"h": 157
+						"w": 180,
+						"h": 180
 					},
 					"spriteSourceSize": {
 						"x": 0,
-						"y": 0,
-						"w": 157,
-						"h": 157
+						"y": 1,
+						"w": 180,
+						"h": 178
 					},
 					"frame": {
 						"x": 1814,
 						"y": 1039,
-						"w": 157,
-						"h": 157
+						"w": 180,
+						"h": 178
+					}
+				},
+				{
+					"filename": "rectangulo-grande",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 210,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 210,
+						"h": 56
+					},
+					"frame": {
+						"x": 1796,
+						"y": 1219,
+						"w": 210,
+						"h": 56
+					}
+				},
+				{
+					"filename": "moneda",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 211,
+						"h": 211
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 203,
+						"h": 203
+					},
+					"frame": {
+						"x": 1616,
+						"y": 1792,
+						"w": 203,
+						"h": 203
+					}
+				},
+				{
+					"filename": "polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 195,
+						"h": 55
+					},
+					"frame": {
+						"x": 1165,
+						"y": 1917,
+						"w": 195,
+						"h": 55
 					}
 				},
 				{
@@ -493,48 +556,6 @@
 					}
 				},
 				{
-					"filename": "autojuego",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 135,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 135,
-						"h": 56
-					},
-					"frame": {
-						"x": 1889,
-						"y": 1632,
-						"w": 135,
-						"h": 56
-					}
-				},
-				{
-					"filename": "tiempo",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 170,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 170,
-						"h": 56
-					},
-					"frame": {
-						"x": 1849,
-						"y": 1690,
-						"w": 170,
-						"h": 56
-					}
-				},
-				{
 					"filename": "escarabajo-dorado",
 					"rotated": false,
 					"trimmed": true,
@@ -577,24 +598,24 @@
 					}
 				},
 				{
-					"filename": "polla",
+					"filename": "tiempo",
 					"rotated": false,
-					"trimmed": true,
+					"trimmed": false,
 					"sourceSize": {
-						"w": 200,
-						"h": 62
+						"w": 170,
+						"h": 56
 					},
 					"spriteSourceSize": {
-						"x": 3,
-						"y": 3,
-						"w": 195,
-						"h": 55
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 56
 					},
 					"frame": {
-						"x": 1814,
-						"y": 1198,
-						"w": 195,
-						"h": 55
+						"x": 1859,
+						"y": 1791,
+						"w": 170,
+						"h": 56
 					}
 				},
 				{
@@ -619,6 +640,27 @@
 					}
 				},
 				{
+					"filename": "autojuego",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 56
+					},
+					"frame": {
+						"x": 1821,
+						"y": 1849,
+						"w": 135,
+						"h": 56
+					}
+				},
+				{
 					"filename": "rectangulo-apuesta",
 					"rotated": false,
 					"trimmed": false,
@@ -633,51 +675,9 @@
 						"h": 56
 					},
 					"frame": {
-						"x": 1849,
-						"y": 1748,
+						"x": 1821,
+						"y": 1907,
 						"w": 95,
-						"h": 56
-					}
-				},
-				{
-					"filename": "rectangulo-grande",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 210,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 210,
-						"h": 56
-					},
-					"frame": {
-						"x": 1772,
-						"y": 1806,
-						"w": 210,
-						"h": 56
-					}
-				},
-				{
-					"filename": "bola-brillo",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 56,
-						"h": 56
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 56,
-						"h": 56
-					},
-					"frame": {
-						"x": 1946,
-						"y": 1748,
-						"w": 56,
 						"h": 56
 					}
 				},
@@ -703,6 +703,27 @@
 					}
 				},
 				{
+					"filename": "bola-brillo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 1958,
+						"y": 1849,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
 					"filename": "bola",
 					"rotated": false,
 					"trimmed": false,
@@ -717,8 +738,8 @@
 						"h": 56
 					},
 					"frame": {
-						"x": 1772,
-						"y": 1864,
+						"x": 1918,
+						"y": 1907,
 						"w": 56,
 						"h": 56
 					}
@@ -759,8 +780,8 @@
 						"h": 41
 					},
 					"frame": {
-						"x": 803,
-						"y": 1932,
+						"x": 1903,
+						"y": 800,
 						"w": 68,
 						"h": 41
 					}
@@ -780,8 +801,8 @@
 						"h": 32
 					},
 					"frame": {
-						"x": 1991,
-						"y": 324,
+						"x": 1580,
+						"y": 1803,
 						"w": 32,
 						"h": 32
 					}
@@ -801,8 +822,8 @@
 						"h": 32
 					},
 					"frame": {
-						"x": 1959,
-						"y": 679,
+						"x": 1362,
+						"y": 1917,
 						"w": 32,
 						"h": 32
 					}
@@ -834,6 +855,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:de4a043fe7d15d3b19cef6f549ac2aff:9fd9da3839eee50b834d21a6effbb872:2db50c4a79ebc1bcbd9597afe4e693ea$"
+		"smartupdate": "$TexturePacker:SmartUpdate:0ef95905e3c459439b8e912b67335c63:f4e8b52cc24863644827da5721d2ef5a:2db50c4a79ebc1bcbd9597afe4e693ea$"
 	}
 }
