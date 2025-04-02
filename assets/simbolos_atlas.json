@@ -5,7 +5,7 @@
 			"format": "RGBA8888",
 			"size": {
 				"w": 486,
-				"h": 648
+				"h": 487
 			},
 			"scale": 1,
 			"frames": [
@@ -45,8 +45,8 @@
 						"h": 161
 					},
 					"frame": {
-						"x": 1,
-						"y": 164,
+						"x": 163,
+						"y": 1,
 						"w": 160,
 						"h": 161
 					}
@@ -66,28 +66,7 @@
 						"h": 161
 					},
 					"frame": {
-						"x": 1,
-						"y": 327,
-						"w": 160,
-						"h": 161
-					}
-				},
-				{
-					"filename": "simbolo-09",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 160,
-						"h": 161
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 160,
-						"h": 161
-					},
-					"frame": {
-						"x": 163,
+						"x": 325,
 						"y": 1,
 						"w": 160,
 						"h": 161
@@ -108,7 +87,7 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 163,
+						"x": 1,
 						"y": 164,
 						"w": 160,
 						"h": 160
@@ -130,7 +109,7 @@
 					},
 					"frame": {
 						"x": 163,
-						"y": 326,
+						"y": 164,
 						"w": 160,
 						"h": 160
 					}
@@ -151,7 +130,7 @@
 					},
 					"frame": {
 						"x": 325,
-						"y": 1,
+						"y": 164,
 						"w": 160,
 						"h": 160
 					}
@@ -171,8 +150,8 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 325,
-						"y": 163,
+						"x": 1,
+						"y": 326,
 						"w": 160,
 						"h": 160
 					}
@@ -192,29 +171,8 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 325,
-						"y": 325,
-						"w": 160,
-						"h": 160
-					}
-				},
-				{
-					"filename": "simbolo-08",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 160,
-						"h": 160
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 160,
-						"h": 160
-					},
-					"frame": {
-						"x": 325,
-						"y": 487,
+						"x": 163,
+						"y": 326,
 						"w": 160,
 						"h": 160
 					}
@@ -225,6 +183,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:91e6fa5da0d02e7575aced0235343af0:47fecd664fc5554b09a805699706f4d1:9a3f2a715f214dcbc06f74f4a50a3b78$"
+		"smartupdate": "$TexturePacker:SmartUpdate:c27773652d5c92c498bfc13a84969be0:ab9273d4e19e60baf3e56df504525a49:9a3f2a715f214dcbc06f74f4a50a3b78$"
 	}
 }

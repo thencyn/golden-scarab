@@ -4,7 +4,7 @@
 			"image": "simbolos-borrosos_atlas.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 648,
+				"w": 486,
 				"h": 486
 			},
 			"scale": 1,
@@ -108,8 +108,8 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 163,
-						"y": 163,
+						"x": 325,
+						"y": 1,
 						"w": 160,
 						"h": 160
 					}
@@ -130,7 +130,7 @@
 					},
 					"frame": {
 						"x": 163,
-						"y": 325,
+						"y": 163,
 						"w": 160,
 						"h": 160
 					}
@@ -150,8 +150,8 @@
 						"h": 160
 					},
 					"frame": {
-						"x": 325,
-						"y": 1,
+						"x": 163,
+						"y": 325,
 						"w": 160,
 						"h": 160
 					}
@@ -176,48 +176,6 @@
 						"w": 160,
 						"h": 160
 					}
-				},
-				{
-					"filename": "simbolo-08",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 160,
-						"h": 160
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 160,
-						"h": 160
-					},
-					"frame": {
-						"x": 325,
-						"y": 325,
-						"w": 160,
-						"h": 160
-					}
-				},
-				{
-					"filename": "simbolo-09",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 160,
-						"h": 160
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 160,
-						"h": 160
-					},
-					"frame": {
-						"x": 487,
-						"y": 1,
-						"w": 160,
-						"h": 160
-					}
 				}
 			]
 		}
@@ -225,6 +183,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:e365f30bc9562ad5fd28ee5aae2cd278:7f5bc8f03b52a7163124f695b8fe4bac:56c83b3809424983a6669b04124e1dbf$"
+		"smartupdate": "$TexturePacker:SmartUpdate:099a5e216666f9d33e5cd8d435911a08:3091eb8c2d9e67925ae963fff9fe80d2:56c83b3809424983a6669b04124e1dbf$"
 	}
 }
